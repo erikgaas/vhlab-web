@@ -1,0 +1,18 @@
+.HomeElList {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+.ExtraHome {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+.ExtraHome > * {
+	padding: 5px;
+}

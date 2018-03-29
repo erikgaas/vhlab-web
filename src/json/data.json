@@ -1,0 +1,649 @@
+{
+	"people": [{
+			"name": "Paul Iaizzo",
+			"credentials": "PhD, FHRS",
+			"position": "Professor",
+			"email": "iaizz001@umn.edu",
+			"phone": "612-624-7912",
+			"designations": ["Faculty"],
+			"img_name": "bio-paul.jpg"
+		},
+
+		{
+			"name": "Mike Bateman",
+			"credentials": "PhD",
+			"position": "Assistant Professor",
+			"email": "batem034@umn.edu",
+			"phone": "612-626-2518",
+			"designations": ["Faculty"],
+			"img_name": "bio-mk.jpg"
+		},
+
+		{
+			"name": "Tinen Iles",
+			"credentials": "PhD",
+			"position": "Assistant Professor",
+			"email": "thealy@umn.edu",
+			"phone": "612-625-3641",
+			"designations": ["Faculty"],
+			"img_name": "bio-tinen.jpg"
+		},
+
+		{
+			"name": "Alex Deakyne",
+			"credentials": "",
+			"position": "Research Professional 1",
+			"email": "deaky007@umn.edu",
+			"phone": "612-301-1668",
+			"designations": ["Staff", "Masters"],
+			"img_name": "bio-alex.jpg"
+		},
+
+		{
+			"name": "Monica Mahre",
+			"credentials": "",
+			"position": "Research Professional 2",
+			"email": "mahre002@umn.edu",
+			"phone": "612-624-3959",
+			"designations": ["Staff"],
+			"img_name": "bio-monica.jpg"
+		},
+
+		{
+			"name": "Cory Swingen",
+			"credentials": "PhD",
+			"position": "Short-term Casual",
+			"email": "swing001@umn.edu",
+			"phone": "",
+			"designations": ["Staff"],
+			"img_name": "bio-cs.jpg"
+		},
+
+
+		{
+			"name": "Weston Upchurch",
+			"credentials": "",
+			"position": "Research Professional 3",
+			"email": "wupchruc@umn.edu",
+			"phone": "612-626-3956",
+			"designations": ["Staff"],
+			"img_name": "bio-WUpchurch.jpg"
+		},
+
+		{
+			"name": "Allison Weyer",
+			"credentials": "",
+			"position": "Research Professional 2",
+			"email": "weye0037@umn.edu",
+			"phone": "612-624-3959",
+			"designations": ["Staff"],
+			"img_name": "bio-AWeyer.jpg"
+		},
+
+		{
+			"name": "Gary Williams",
+			"credentials": "",
+			"position": "Applications Programmer",
+			"email": "willi067@umn.edu",
+			"phone": "612-624-3161",
+			"designations": ["Staff"],
+			"img_name": "bio-gary.jpg"
+		},
+
+
+		{
+			"name": "Michael Eggen",
+			"credentials": "PhD",
+			"position": "Applications Programmer",
+			"email": "willi067@umn.edu",
+			"phone": "612-624-3161",
+			"designations": ["Adjunct"],
+			"img_name": "bio-gary.jpg"
+		},
+
+		{
+			"name": "Alexander Hill",
+			"credentials": "PhD",
+			"position": "Director of Research and Business Development at Medtronic",
+			"email": "alex.hill@medtronic.com",
+			"phone": "763-514-9776",
+			"designations": ["Adjunct"],
+			"img_name": "bio-ah.jpg"
+		},
+
+		{
+			"name": "Timothy Laske",
+			"credentials": "PhD",
+			"position": "Vice President of Research and Business Development - Medtronic AF Solutions",
+			"email": "tim.g.laske@medtronic.com",
+			"phone": "763-514-9782",
+			"designations": ["Adjunct"],
+			"img_name": "bio-tl.jpg"
+		},
+
+		{
+			"name": "Nicholas Skadsberg",
+			"credentials": "PhD",
+			"position": "Global Upstream Marketing Director - AF Solutions",
+			"email": "nick.skadsberg@medtronic.com",
+			"phone": "763-526-0163",
+			"designations": ["Adjunct"],
+			"img_name": "bio-ns.jpg"
+		},
+
+		{
+			"name": "Erik Gaasedelen",
+			"credentials": "",
+			"position": "Bioinformatics and Computational Biology",
+			"email": "gaas0012@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-EG.jpg"
+		},
+
+		{
+			"name": "Mikayle Holm",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "holmx427@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-MH.jpg"
+		},
+
+		{
+			"name": "Lars Mattison",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "matti137@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-LM.jpg"
+		},
+
+		{
+			"name": "Alex Mattson",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "matts460@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-AM.jpg"
+		},
+
+		{
+			"name": "David Ramirez",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "ramir356@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-DRamirez.jpg"
+		},
+
+		{
+			"name": "Emma Schinstock",
+			"credentials": "",
+			"position": "Mechanical Engineering",
+			"email": "schin139@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-ESchinstock.jpg"
+		},
+
+		{
+			"name": "Megan Schmidt",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "schm2696@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-MS.jpg"
+		},
+
+		{
+			"name": "Jorge Zhingre Sanchez",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "zhing001@umn.edu",
+			"phone": "612-624-8742",
+			"designations": ["Doctoral"],
+			"img_name": "bio-JZ.jpg"
+		},
+
+
+		{
+			"name": "Lindsey Arndt",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "arndt214@umn.edu",
+			"phone": "",
+			"designations": ["Masters"],
+			"img_name": "bio-LArndt.jpg"
+		},
+
+		{
+			"name": "Sarah Hamlin",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "hamli037@umn.edu",
+			"phone": "",
+			"designations": ["Masters"],
+			"img_name": "bio-MS.jpg"
+		},
+
+		{
+			"name": "Alyssa Jackson",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "jacks938@umn.edu",
+			"phone": "",
+			"designations": ["Masters"],
+			"img_name": "bio-aj.jpg"
+		},
+
+		{
+			"name": "Lizzie Mattson",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "matts538@umn.edu",
+			"phone": "",
+			"designations": ["Masters"],
+			"img_name": "bio-LMattson.jpg"
+		},
+
+		{
+			"name": "Ky O'Rourke",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "kylee@umn.edu",
+			"phone": "",
+			"designations": ["Masters"],
+			"img_name": "bio-KORourke.jpg"
+		},
+
+		{
+			"name": "Kaileigh Rock",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "rock0253@umn.edu",
+			"phone": "",
+			"designations": ["Masters"],
+			"img_name": "bio-KRock.jpg"
+		},
+
+		{
+			"name": "Tommy Valenzuela III",
+			"credentials": "",
+			"position": "Biomedical Engineering",
+			"email": "valen382@umn.edu",
+			"phone": "",
+			"designations": ["Masters"],
+			"img_name": "bio-TValenzuela.jpg"
+		},
+
+		{
+			"name": "Paul Cho",
+			"credentials": "",
+			"position": "Volunteer (Physiology), UROP",
+			"email": "choxx500@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-pc.jpg"
+		},
+
+		{
+			"name": "Emma Fiala",
+			"credentials": "",
+			"position": "Volunteer (Physiology)",
+			"email": "fiala013@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-EF.jpg"
+		},
+
+		{
+			"name": "Ally Fuher",
+			"credentials": "",
+			"position": "Temporary/Casual, Volunteer (Biology)",
+			"email": "fuher005@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-af.jpg"
+		},
+
+		{
+			"name": "Josh Gangl",
+			"credentials": "",
+			"position": "Volunteer (Physiology)",
+			"email": "gangl017@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-jg.jpg"
+		},
+
+		{
+			"name": "Mahdi Hurreh",
+			"credentials": "",
+			"position": "Volunteer",
+			"email": "hurre009@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-MHurreh.jpg"
+		},
+
+		{
+			"name": "Chloe Johnson",
+			"credentials": "",
+			"position": "Volunteer (Animal Science/Pre-vet)",
+			"email": "joh11648@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-cj.jpg"
+		},
+
+		{
+			"name": "Brenna Kelly",
+			"credentials": "",
+			"position": "Volunteer (Post-bac)",
+			"email": "",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-BKelly.jpg"
+		},
+
+		{
+			"name": "Tarek Khatib",
+			"credentials": "",
+			"position": "Volunteer (Physiology)",
+			"email": "khati005@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-nopic.jpg"
+		},
+
+		{
+			"name": "Panyiag Lee",
+			"credentials": "",
+			"position": "Volunteer (Psychology)",
+			"email": "leex3583@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-nopic.jpg"
+		},
+
+		{
+			"name": "Xiaoyin Ling",
+			"credentials": "",
+			"position": "Volunteer (Mechanical Engineering)",
+			"email": "",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-nopic.jpg"
+		},
+
+		{
+			"name": "Meghan Longen",
+			"credentials": "",
+			"position": "Volunteer (Physiology)",
+			"email": "longe020@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-nopic.jpg"
+		},
+
+		{
+			"name": "Melanie Menk",
+			"credentials": "",
+			"position": "Volunteer (Biology)",
+			"email": "menkx035@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-ml.jpg"
+		},
+
+		{
+			"name": "Sydney Newton",
+			"credentials": "",
+			"position": "Volunteer (Biology)",
+			"email": "newto158@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-sn.jpg"
+		},
+
+		{
+			"name": "Danielle Sorensen",
+			"credentials": "",
+			"position": "Volunteer (Biology)",
+			"email": "soren892@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-DSorensen.jpg"
+		},
+
+		{
+			"name": "Claire Thomas",
+			"credentials": "",
+			"position": "Volunteer (Biochemistry)",
+			"email": "thom5700@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-CThomas.jpg"
+		},
+
+		{
+			"name": "Nichole Torgerson",
+			"credentials": "",
+			"position": "Volunteer",
+			"email": "torge194@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-NTorgerson.jpg"
+		},
+
+		{
+			"name": "Julia Van Luyk",
+			"credentials": "",
+			"position": "Volunteer (BMEn)",
+			"email": "vanlu005@umn.edu",
+			"phone": "",
+			"designations": ["Volunteer"],
+			"img_name": "bio-jv.jpg"
+		}
+	],
+
+	"research": [{
+			"name": "3D Modeling",
+			"simple_name": "3dmodeling",
+			"img_name": "icon3d.jpg",
+			"topics": [{
+					"name": "CarePrints",
+					"md_path": "careprints.md"
+				},
+				{
+					"name": "Virtual Reality",
+					"md_path": "vr.md"
+				},
+				{
+					"name": "Devices",
+					"md_path": "devices.md"
+				},
+				{
+					"name": "Education",
+					"md_path": "education.md"
+				}
+			]
+		},
+
+		{
+			"name": "Cardiac",
+			"img_name": "iconcardiac.jpg",
+			"topics": [{
+					"name": "Cardiac Physiology (functional assessment",
+					"md_path": "cardiacphys.md"
+				},
+				{
+					"name": "Large mammalian comparative cardiac anatomy",
+					"md_path": "largemammal.md"
+				},
+				{
+					"name": "Intracellular recording and patch clamp techniques",
+					"md_path": "patchclamp.md"
+				},
+				{
+					"name": "Surface or Transmural Electromyography",
+					"md_path": "electromyography.md"
+				},
+				{
+					"name": "Action Potential Mapping",
+					"md_path": "apmapping.md"
+				}
+
+			]
+		},
+
+		{
+			"name": "Patient Care",
+			"img_name": "iconhealth.jpg",
+			"topics": [{
+					"name": "Thermal Management of the Surgical Patient",
+					"md_path": "thermal.md"
+				},
+				{
+					"name": "Cerebral protection using mild hypothermia",
+					"md_path": "hypothermia.md"
+				},
+				{
+					"name": "LTX30000TM Lumbar Rehabilitation System",
+					"md_path": "lumbar.md"
+				},
+				{
+					"name": "Cardiac Function During Hibernation: EKG and Echocardiographic Analyses",
+					"md_path": "hibernation.md"
+				}
+			]
+		},
+
+		{
+			"name": "Black Bears",
+			"img_name": "iconbear.jpg",
+			"topics": [{
+					"name": "Stimulated Muscle Force Assessment During Hibernation",
+					"md_path": "muscleforcehibernation.md"
+				},
+				{
+					"name": "Wound Healing During Hibernation",
+					"md_path": "wound.md"
+				},
+				{
+					"name": "Pharmacological Approaches to Cardioprotection",
+					"md_path": "pharma.md"
+				},
+				{
+					"name": "Wound Formation, Treatment, and Healing",
+					"md_path": "woundhealing.md"
+				}
+			]
+		},
+
+		{
+			"name": "Medical Devices",
+			"img_name": "icondevice.jpg",
+			"topics": [{
+					"name": "Cardiac Devices, Testing, and Design",
+					"md_path": "meddevices.md"
+				},
+				{
+					"name": "Visible Heart®: Functional Cardiac Anatomy using a 4-chamber Isolated Heart Preparation of Various Large Mammalians including Human Hearts",
+					"md_path": "vh.md"
+				},
+				{
+					"name": "Electrophysiology, Surface, and Noncontact Mapping",
+					"md_path": "electrophysiology.md"
+				}
+			]
+		},
+
+		{
+			"name": "Skeletal Muscle",
+			"img_name": "iconsm.png",
+			"topics": [{
+					"name": "Anesthetic complications in muscular disorders",
+					"md_path": "anesthetic.md"
+				},
+				{
+					"name": "Stimulated muscle force measurements in neuromuscular diseases",
+					"md_path": "musclestim.md"
+				},
+				{
+					"name": "Prevention of hypoxic damage using opiod agonists",
+					"md_path": "agonist.md"
+				},
+				{
+					"name": "Doxorubicin chemomyectomy",
+					"md_path": "doxorubicin.md"
+				}
+			]
+		}
+	],
+	"carousel": [{
+			"legend": "40 Years of Heart Transplants",
+			"link": "http://www.fox9.com/news/university-of-minnesota-health-celebrates-40-years-of-heart-transplants",
+			"img_path": "40transplant.jpg"
+		},
+		{
+			"legend": "3D Printing",
+			"link": "http://www.kare11.com/news/3d-printing-gives-doctors-a-new-view/135852297",
+			"img_path": "3dprints.jpg"
+		},
+		{
+			"legend": "Black Bear Research",
+			"link": "http://www.vhlab.umn.edu/bears/index.html",
+			"img_path": "bears.jpg"
+		},
+		{
+			"legend": "Latest News",
+			"link": "media",
+			"img_path": "umngroupphoto.jpg"
+		}
+	],
+
+	"homeElements": [{
+			"name": "Our Lab",
+			"img_path": "ourlab3.jpg",
+			"link": "about",
+			"description": "Get familiar with our team of teachers, students, and scientists"
+		},
+		{
+			"name": "Research",
+			"img_path": "Research.jpg",
+			"link": "research",
+			"description": "Areas of research conducted in the Visible Heart Laboratory"
+		},
+		{
+			"name": "Education",
+			"img_path": "education5.jpg",
+			"link": "education",
+			"description": "See the educational outreach and programs we offer"
+		},
+		{
+			"name": "Clinical",
+			"img_path": "mhlogo.jpg",
+			"link": "clinical",
+			"description": "See the educational outreach and programs we offer"
+		},
+		{
+			"name": "Virtual Tour",
+			"img_path": "tour3.jpg",
+			"link": "",
+			"description": "Let us take you on an in-depth guided tour of our lab"
+		},
+		{
+			"name": "The Atlas",
+			"img_path": "Happaratus.JPG",
+			"link": "http://www.vhlab.umn.edu/atlas/",
+			"description": "Let us take you on an in-depth guided tour of our lab"
+		}
+	]
+}
