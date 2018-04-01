@@ -29,7 +29,13 @@ class Home extends Component {
 		return (
 				<div className='Home'>
 					<div className='CarouselContainer'>
-						<Carousel className="Carousel" dynamicHeight={true} infiniteLoop={true} autoPlay={true} swipeable={true} emulateTouch={true}>
+						<Carousel className="Carousel" 
+									dynamicHeight={false} 
+									infiniteLoop={true} 
+									autoPlay={true} 
+									swipeable={true} 
+									emulateTouch={true}
+									showThumbs={false}>
 							{carousel.map(el => this.makeElement(el))}
 						</Carousel>
 					</div>
