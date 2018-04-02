@@ -16,25 +16,30 @@ class Footer extends Component {
 					<div className="social">
 						<span className="socialEl">
 							<SocialIcon url="https://www.facebook.com/VisibleHeartLab/" className="socicon"/>
-							<span>Facebook</span>
+							<a href="https://www.facebook.com/VisibleHeartLab/"><span>Facebook</span></a>
 						</span>
 
 						<span className="socialEl">
 							<SocialIcon url="https://twitter.com/VisibleHeartLab" className="socicon"/>
-							<span>Twitter</span>
+							<a href="https://twitter.com/VisibleHeartLab"><span>Twitter</span></a>
 						</span>
 						<span className="socialEl">
 
 							<SocialIcon url="https://www.youtube.com/channel/UCwcaO45GJ_v-WrWXEUKCXKw" className="socicon"/>
-							<span>Youtube</span>
+							<a href="https://www.youtube.com/channel/UCwcaO45GJ_v-WrWXEUKCXKw"><span>Youtube</span></a>
 						</span>
+
+						<a href="/gift">
+						<span className="socialEl">
+							<img className="gift" src={process.env.PUBLIC_URL + "/images/icons/gift.png"} width={50} />
+							<span>Give a Gift</span>
+						</span></a>
 					</div>
 
 					<address>
 						B172 Mayo, MMC195
 						420 Delaware Street S.E.
 						Minneapolis, MN 55455
-
 					</address>
 
 
