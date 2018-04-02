@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import '../styles/Footer.css';
 
-class Header extends Component {
+class Footer extends Component {
 	render() {
 		return (
 				<div className='FootContainer'>
-					<div className='Yellow Bar...'>
-					Freaking yellow bar for no reason.
-					</div>
+					<div className='yellow-footer-bar'></div>
 
 					<div>
 						Home:
@@ -59,4 +57,4 @@ class Header extends Component {
 	}
 }
 
-export default Header;
+export default Footer;
