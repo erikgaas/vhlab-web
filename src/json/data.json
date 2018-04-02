@@ -634,12 +634,6 @@
 			"description": "See the educational outreach and programs we offer"
 		},
 		{
-			"name": "Virtual Tour",
-			"img_path": "tour3.jpg",
-			"link": "",
-			"description": "Let us take you on an in-depth guided tour of our lab"
-		},
-		{
 			"name": "The Atlas",
 			"img_path": "Happaratus.JPG",
 			"link": "http://www.vhlab.umn.edu/atlas/",
